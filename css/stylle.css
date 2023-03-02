@@ -1,0 +1,63 @@
+* {background-color: whitesmoke;}
+
+
+#outline{
+    border-style: dotted;
+    width: 70%;
+    height: 70%;
+}
+
+
+
+
+
+#box1{
+    border-color: blue;
+    border-style: solid;
+    height: 70%;
+    width: 70%;
+    padding: 5px 50px 5px 50px;
+    margin: 10px 30px 10px 30px;
+}
+
+#box2{
+    border-color: red;
+    border-style: solid;
+    width: 70%;
+    height: 70%;
+    padding: 15px 100px 15px 100px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+
+
+#outside{
+    border-style: dashed;
+    border-color: blue;
+    width: 200px;
+    height: 200px;
+
+}
+
+#outside2{
+    border-style: dotted;
+    border-color: yellowgreen;
+    width: 90%;
+    height: 90%;
+
+}
+
+#outside3{
+    border-style: dotted;
+    width: 80%;
+    height: 80%;
+    border-color: tomato;
+}
+
+#outside4{
+    border-style: dotted;
+    width: 70%;
+    height: 70%;
+    border-color: sienna;
+}

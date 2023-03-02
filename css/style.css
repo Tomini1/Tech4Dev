@@ -1,0 +1,66 @@
+* {
+    background-color: burlywood;
+}
+
+#border {
+    border-style: dotted solid dashed double;
+    border-width: medium;
+    border-color: green blue red yellow;
+}
+
+
+/* styles for all labels using their unique ids */
+
+#firstname{
+    border-color: black;
+    background-color: aquamarine;
+    border-style: dotted;
+}
+#middlename{
+    border-color: green;
+    background-color: yellow;
+    border-style: dashed;
+    border-radius: 1px;
+}
+#lastname{
+    background-color: yellowgreen;
+    border-color: violet;
+    border-style: none;
+}
+#email{
+    border-style: double dotted;
+    border-color: yellowgreen whitesmoke;
+    background-color: ivory;
+}
+#username{
+    background-color: aliceblue;
+    border-style: outset ridge;
+    border-color: slategray goldenrod;
+}
+#password{
+    background-color: rgb(39, 2, 39);
+    border-style: hidden groove dotted dashed;
+    border-color: chocolate;
+
+}
+#psw-repeat{
+    background-color: skyblue;
+    border-style: hidden;
+    border-color: pink;
+}
+#date{
+    background-color: cadetblue;
+    border-style: hidden;
+    border-color: rebeccapurple;
+}
+#box{
+    background-color: snow;
+    border-style: groove;
+    border-color: moccasin;
+}
+#submit{
+    background-color: rgb(43, 87, 43);
+}
+#reset{
+    background-color: rgba(67, 67, 127, 0.405);
+}

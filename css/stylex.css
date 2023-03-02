@@ -1,0 +1,50 @@
+*{
+    max-width: 500px;
+    margin: auto;
+}
+
+#name{
+    border-style: none none none solid;
+    border-color: rgb(67, 4, 67);
+    background-color: rgba(228, 223, 230, 0.655);
+    height: 40px;
+}
+
+#email{
+    border-style: none none none solid;
+    border-color: rgb(67, 4, 67);
+    background-color: rgba(228, 223, 230, 0.655);
+    height: 40px;
+    
+}
+
+#password{
+    border-style: none none none solid;
+    border-color: rgb(67, 4, 67);
+    background-color: rgba(228, 223, 230, 0.655);
+    height: 40px;
+}
+
+div{
+    display: inline;
+}
+#blogpost{
+    max-width: 900px;
+    margin: auto;
+    border-color: magenta;
+    border-style: solid;
+    position: relative;
+    top: 9px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+#sidebar{
+    max-width: 1000px;
+    margin: auto;
+    border-color: black;
+    border-style: double;
+    bottom: 0;
+    position: sticky;
+}
